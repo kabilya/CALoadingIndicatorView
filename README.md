@@ -1,6 +1,22 @@
-Animated Loading Indicator View for Swift 2.0
+# Animated Loading Indicator View for Swift 2.0
 
-Usage:
+An animdated loading indicator derived from UIView.
+Can customise the number of circles, width, and delay.
+Written in Swift 2.0
+
+## Requirements
+
+* iOS 7.0 or later.
+* ARC memory management.
+
+## Installation
+
+The easiest way to install it is by copying the following files to your project:
+
+* CALoadingIndicatorView.swift
+
+## Usage
+
 
   override func viewDidLoad()
   {
