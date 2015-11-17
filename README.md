@@ -1,4 +1,4 @@
-# Animated Loading Indicator View for Swift 2.0
+#CALoadingIndicatorView for Swift 2.0
 
 An animdated loading indicator derived from UIView.
 Can customise the number of circles, width, and delay.
@@ -13,7 +13,7 @@ Written in Swift 2.0
 
 ## Installation
 
-The easiest way to install it is by copying the following files to your project:
+The easiest way to install it is by copying the following file to your project:
 
 * CALoadingIndicatorView.swift
 
