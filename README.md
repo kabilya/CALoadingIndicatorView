@@ -4,6 +4,8 @@ An animdated loading indicator derived from UIView.
 Can customise the number of circles, width, and delay.
 Written in Swift 2.0
 
+![example](https://github.com/kabilya/CALoadingIndicatorView/blob/master/demo.gif?raw=true)
+
 ## Requirements
 
 * iOS 7.0 or later.
